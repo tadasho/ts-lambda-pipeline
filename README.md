@@ -1,6 +1,6 @@
 # ts-lambda-pipeline
 ## Description
-TypeScript言語で書かれたLambda関数をJacaScriptにコンパイルし、AWS Lambdaにデプロイする。
+Compile AWS Lambda function with TypeScript to one with JavaScript and finally deploy it.
 
 ## System Requirement
 * Globally installed [node](https://nodejs.org/en/)
