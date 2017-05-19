@@ -10,7 +10,7 @@
     "build:compile": "tsc",
     "build:compress_js": "cd dist && zip ../dist.zip index.js",
     "build:compress_node_modules": "zip -r dist.zip node_modules",
-    "build:lambda": "aws lambda update-function-code --function-name events-example --zip-file fileb://dist.zip",
+    "build:lambda": "aws lambda update-function-code --function-name [FUNCTION_NAME] --zip-file fileb://dist.zip",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
