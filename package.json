@@ -1,0 +1,27 @@
+{
+  "name": "ts-lambda-pipeline",
+  "version": "1.0.0",
+  "description": "TypeScript -> JavaScript -> Upload AWS Lambda Function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadasho/ts-lambda-pipeline.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "ts",
+    "JavaScript",
+    "js",
+    "AWS",
+    "Lambda"
+  ],
+  "author": "tadasho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tadasho/ts-lambda-pipeline/issues"
+  },
+  "homepage": "https://github.com/tadasho/ts-lambda-pipeline#readme"
+}
