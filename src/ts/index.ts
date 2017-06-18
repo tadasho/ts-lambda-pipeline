@@ -8,8 +8,6 @@ awsやlambdaという文字列を発見すると返信する
 
 */
 
-// For Node/CommonJS
-declare function require(path: string): any;
 // For RequireJS/AMD
 declare function define(...args: any[]): any;   
 

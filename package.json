@@ -32,6 +32,7 @@
   },
   "homepage": "https://github.com/tadasho/ts-lambda-pipeline#readme",
   "devDependencies": {
+    "@types/node": "^7.0.31",
     "npm-run-all": "^4.0.2"
   }
 }
