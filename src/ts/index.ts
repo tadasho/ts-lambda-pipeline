@@ -8,9 +8,6 @@ awsやlambdaという文字列を発見すると返信する
 
 */
 
-// For RequireJS/AMD
-declare function define(...args: any[]): any;   
-
 const https: any = require('https'),
       qs: any = require('querystring'),
       VERIFICATION_TOKEN = "[APP VERIFICATION TOKEN]",
